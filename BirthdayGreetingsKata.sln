@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetingsKata", "BirthdayGreetingsKata\BirthdayGreetingsKata.csproj", "{9FA6A8A2-DE66-4817-9CFD-8093EADF13B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetingsKata.Tests", "BirthdayGreetingsKata.Tests\BirthdayGreetingsKata.Tests.csproj", "{C1FBB89D-7EED-420E-9545-D5EBA87936C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA6A8A2-DE66-4817-9CFD-8093EADF13B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA6A8A2-DE66-4817-9CFD-8093EADF13B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA6A8A2-DE66-4817-9CFD-8093EADF13B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA6A8A2-DE66-4817-9CFD-8093EADF13B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FBB89D-7EED-420E-9545-D5EBA87936C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FBB89D-7EED-420E-9545-D5EBA87936C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FBB89D-7EED-420E-9545-D5EBA87936C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FBB89D-7EED-420E-9545-D5EBA87936C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F596860-9BD5-4999-B4B7-EE7B135FD92F}
+	EndGlobalSection
+EndGlobal
